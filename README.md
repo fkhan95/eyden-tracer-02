@@ -1,6 +1,6 @@
 # Practical Assignment 2
 Please put your name (or names if you work in a group) here:
-**Name**: .......
+**Name**: 
 Farzan Ali Khan, 
 Huzaifa Hashim, 
 Raja Rafey.
