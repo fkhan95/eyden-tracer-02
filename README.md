@@ -1,9 +1,10 @@
 # Practical Assignment 2
-Please put your name (or names if you work in a group) here:  
-Farzan Ali Khan
-Huzaifa Hashim
-Raja Rafey
+Please put your name (or names if you work in a group) here:
 **Name**: .......
+Farzan Ali Khan, 
+Huzaifa Hashim, 
+Raja Rafey.
+
 ## Problem 2.2
 ### Encapsulate camera and primitives from main application logic (Points 5)
 1. Fork the current repository
