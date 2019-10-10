@@ -1,5 +1,8 @@
 # Practical Assignment 2
 Please put your name (or names if you work in a group) here:  
+Farzan Ali Khan
+Huzaifa Hashim
+Raja Rafey
 **Name**: .......
 ## Problem 2.2
 ### Encapsulate camera and primitives from main application logic (Points 5)
